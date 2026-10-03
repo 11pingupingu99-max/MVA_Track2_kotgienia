@@ -1,0 +1,167 @@
+{
+  "schema": "MVA_NB11_HANDOFF_1.0",
+  "reference_sha256": "629563f6ba95d92441cec7fd76aacb9d7927fe84fef4f6e57509dc81460765e7",
+  "mouse_symbol_resolution_sha256": "57b75d1067e91256dfdf4df925ae90d824306537b7142a883d08edf1f8facedd",
+  "orthology_sha256": "80184c7940bbb4de1846e970fcee4d3396264187ba5968eb87067883d2a51443",
+  "contrasts": [
+    {
+      "contrast": "GSE134780_skM_HH_vs_WT",
+      "series": "GSE134780",
+      "tissue": "skM",
+      "genotype": "HH",
+      "log_file": "contrasts/GSE134780_skM_HH_vs_WT/human_ortholog_log2.csv.gz",
+      "metadata_file": "contrasts/GSE134780_skM_HH_vs_WT/samples.csv"
+    },
+    {
+      "contrast": "GSE134780_skM_HL1002P_vs_WT",
+      "series": "GSE134780",
+      "tissue": "skM",
+      "genotype": "HL1002P",
+      "log_file": "contrasts/GSE134780_skM_HL1002P_vs_WT/human_ortholog_log2.csv.gz",
+      "metadata_file": "contrasts/GSE134780_skM_HL1002P_vs_WT/samples.csv"
+    },
+    {
+      "contrast": "GSE134780_fat_HH_vs_WT",
+      "series": "GSE134780",
+      "tissue": "fat",
+      "genotype": "HH",
+      "log_file": "contrasts/GSE134780_fat_HH_vs_WT/human_ortholog_log2.csv.gz",
+      "metadata_file": "contrasts/GSE134780_fat_HH_vs_WT/samples.csv"
+    },
+    {
+      "contrast": "GSE134780_fat_HL1002P_vs_WT",
+      "series": "GSE134780",
+      "tissue": "fat",
+      "genotype": "HL1002P",
+      "log_file": "contrasts/GSE134780_fat_HL1002P_vs_WT/human_ortholog_log2.csv.gz",
+      "metadata_file": "contrasts/GSE134780_fat_HL1002P_vs_WT/samples.csv"
+    },
+    {
+      "contrast": "GSE134781_skM_hetL1002P_vs_WT",
+      "series": "GSE134781",
+      "tissue": "skM",
+      "genotype": "hetL1002P",
+      "log_file": "contrasts/GSE134781_skM_hetL1002P_vs_WT/human_ortholog_log2.csv.gz",
+      "metadata_file": "contrasts/GSE134781_skM_hetL1002P_vs_WT/samples.csv"
+    },
+    {
+      "contrast": "GSE134781_skM_hetX753_vs_WT",
+      "series": "GSE134781",
+      "tissue": "skM",
+      "genotype": "hetX753",
+      "log_file": "contrasts/GSE134781_skM_hetX753_vs_WT/human_ortholog_log2.csv.gz",
+      "metadata_file": "contrasts/GSE134781_skM_hetX753_vs_WT/samples.csv"
+    }
+  ],
+  "decisions": [
+    {
+      "module": "Autophagy",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Cytosolic_ribosome_sentinels",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "DNA_damage_response",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "DNA_replication",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "ISRmt_author_sentinels",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Innate_immunity",
+      "status": "INSUFFICIENT_COVERAGE",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Lysosome",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Mito_UPR",
+      "status": "INSUFFICIENT_COVERAGE",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Mito_import_localization",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Mito_translation",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Mitotic_cycle",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "NAD_consuming_enzymes",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "NAD_synthesis_salvage",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "OXPHOS",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Oxidative_stress",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Protein_folding",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Type_I_IFN",
+      "status": "INSUFFICIENT_COVERAGE",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    },
+    {
+      "module": "Ubiquitin_proteolysis",
+      "status": "NO_FDR_SUPPORTED_SIGNAL",
+      "FDR_contrasts": [],
+      "independent_replication_claim": false
+    }
+  ],
+  "scope": "Related mouse models; not the child genotype. Shared controls are not independent replication."
+}

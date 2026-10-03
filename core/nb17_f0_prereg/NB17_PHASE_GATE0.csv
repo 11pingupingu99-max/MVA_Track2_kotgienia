@@ -1,0 +1,4 @@
+phase_result,interpretation,action,variant_distance_bp
+TRANS,compound-heterozygous BUB1B model remains coherent,retain F0M L737*/N1002K disease-context arm; proceed to mechanism discrimination,10911
+CIS,current pair does not constitute a biallelic recessive explanation,reopen second-allele/gene search; do not interpret L737*/N1002K F0M as the patient's established genotype,10911
+UNRESOLVED,diagnostic model remains conditional,"no treatment claim; prioritize parental/trio genotyping, long-read phasing, or long-range PCR + amplicon sequencing",10911

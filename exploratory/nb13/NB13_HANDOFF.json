@@ -1,0 +1,10 @@
+{
+  "schema": "MVA_NB13_HANDOFF_1.0",
+  "paired_analysis": "COMPLETED",
+  "NB11_integration": "COMPLETED_EXPLORATORY_ALIGNMENT",
+  "clean_rescue_proven": false,
+  "synergy_proven": false,
+  "clinical_recommendation": false,
+  "patient_4m_complete_pairs": 4,
+  "gate_rule": "No automatic PASS. Existing NB09 and NB10 logic is not a biological efficacy validation."
+}

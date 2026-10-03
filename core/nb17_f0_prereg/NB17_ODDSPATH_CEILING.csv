@@ -1,0 +1,4 @@
+scenario,n_P_LP,n_B_LB,P1_modeled_with_pseudocounts,P2_PS3_abnormal_group,PS3_OddsPath,P2_BS3_normal_group,BS3_OddsPath,total_real_controls,PS3_arithmetic_strength,BS3_arithmetic_strength,meets_11_control_minimum_for_count_based_moderate,prospective_claim_ceiling
+FROZEN_5P_6B,5,6,0.46153846153846156,0.8333333333333334,5.833333333333334,0.14285714285714285,0.1944444444444444,11,Moderate,Moderate,True,Moderate
+LOSS_ONE_PLP_4P_6B,4,6,0.4166666666666667,0.8,5.6000000000000005,0.14285714285714285,0.23333333333333325,10,Moderate,Supporting,False,Below Moderate / calculate from actual validation
+LOSS_ONE_BLB_5P_5B,5,5,0.5,0.8333333333333334,5.000000000000002,0.16666666666666666,0.19999999999999998,10,Moderate,Moderate,False,Below Moderate / calculate from actual validation

@@ -1,0 +1,19 @@
+contrast,individual,complete_pair,reason
+patient_4m_vs_0m,Patient2,True,included
+patient_4m_vs_0m,Patient4,True,included
+patient_4m_vs_0m,Patient3,True,included
+patient_4m_vs_0m,Patient5,True,included
+patient_4m_vs_0m,Patient1,False,missing one of required timepoints
+patient_10m_vs_0m,Patient2,True,included
+patient_10m_vs_0m,Patient4,True,included
+patient_10m_vs_0m,Patient3,True,included
+patient_10m_vs_0m,Patient5,False,missing one of required timepoints
+patient_10m_vs_0m,Patient1,False,missing one of required timepoints
+control_4m_vs_0m,Control1,True,included
+control_4m_vs_0m,Control5,True,included
+control_4m_vs_0m,Control3,True,included
+control_4m_vs_0m,Control4,True,included
+control_4m_vs_0m,Control7,True,included
+control_4m_vs_0m,Control6,True,included
+control_4m_vs_0m,Control9,True,included
+control_4m_vs_0m,Control8,True,included

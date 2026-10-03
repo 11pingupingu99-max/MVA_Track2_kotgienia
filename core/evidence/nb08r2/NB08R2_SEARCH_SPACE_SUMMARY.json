@@ -1,0 +1,6 @@
+{
+  "targets_n": 13,
+  "chembl_unique_approved_parent_drugs": 14,
+  "drugcentral_unique_approved_structures": 11,
+  "note": "Counts are source-specific and are not summed because identifiers differ and drug overlap is not cross-mapped."
+}

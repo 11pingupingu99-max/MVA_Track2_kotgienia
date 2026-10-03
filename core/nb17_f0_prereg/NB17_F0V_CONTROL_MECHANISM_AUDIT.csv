@@ -1,0 +1,12 @@
+variant,clinvar_variation_id,clinical_class,manifest_consequence,cDNA_mechanism_compatibility,audit_status,splice_only_or_regulatory_flag,counts_for_F0V_validation
+T40M,6758,B/LB,missense,protein-function compatible,eligible,False,True
+V4M,133764,B/LB,missense,protein-function compatible,eligible,False,True
+V618A,133769,B/LB,missense,protein-function compatible,eligible,False,True
+N1004S,133772,B/LB,missense,protein-function compatible,eligible,False,True
+R349Q,133780,B/LB,missense,protein-function compatible,eligible,False,True
+E390D,133782,B/LB,missense,protein-function compatible,eligible,False,True
+R194*,6760,P/LP,truncating,protein-function only; cDNA bypasses RNA/NMD,eligible_with_scope_limit,False,True
+R120*,851299,P/LP,truncating,protein-function only; cDNA bypasses RNA/NMD,eligible_with_scope_limit,False,True
+H856fs,958852,P/LP,truncating,protein-function only; cDNA bypasses RNA/NMD,eligible_with_scope_limit,False,True
+S788fs,986977,P/LP,truncating,protein-function only; cDNA bypasses RNA/NMD,eligible_with_scope_limit,False,True
+R80_Y81ins*,3577081,P/LP,truncating,protein-function only; cDNA bypasses RNA/NMD,eligible_with_scope_limit,False,True

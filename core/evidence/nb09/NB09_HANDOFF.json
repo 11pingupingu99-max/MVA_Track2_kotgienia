@@ -1,0 +1,11 @@
+{
+  "schema": "MVA-NB09-EXPOSURE-MECHANISM-1.0.0",
+  "ranking_used": false,
+  "purpose": "exposure_plausibility_gate",
+  "primary_output": "NB09_EXPOSURE_MECHANISM_AUDIT.csv",
+  "key_conclusion": "Approved/marketed status is not sufficient; exposure bridge differs materially across candidates.",
+  "arimoclomol_status": "MAJOR_NOMINAL_EXPOSURE_GAP_REQUIRES_LOW_uM_EXPERIMENT",
+  "pba_status": "NOMINAL_TOTAL_CMAX_WITHIN_SEVERAL_FOLD_OF_5mM_EXEMPLAR",
+  "gga_status": "DIRECT_HUMAN_LOCAL_TISSUE_HSP70_PD_SUPPORT",
+  "ambroxol_status": "HUMAN_CSF_TARGET_ENGAGEMENT_BUT_LARGE_NOMINAL_GAP_TO_CLASSIC_CELL_CONCENTRATIONS"
+}

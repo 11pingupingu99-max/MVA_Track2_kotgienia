@@ -1,0 +1,11 @@
+{
+  "schema": "MVA-NB08R2-COVERAGE-AUDIT-1.0.2",
+  "ranking_used_for_selection": false,
+  "purpose": "exact_component_aware_coverage_and_falsification",
+  "activity_channel_default": "NOT_RUN",
+  "drugcentral_approval_filter_applied": true,
+  "drugcentral_dedup_key": "STRUCT_ID",
+  "chembl_target_mapping": "core_target -> exact UniProt accession -> target_components__accession",
+  "free_text_target_search_used": false,
+  "snapshot_mode": "FROZEN"
+}

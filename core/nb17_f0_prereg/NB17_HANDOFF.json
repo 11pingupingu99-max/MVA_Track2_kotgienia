@@ -1,0 +1,33 @@
+{
+  "schema": "MVA-NB17-F0-PREREG-VALIDITY-1.0.1",
+  "status": "PASS",
+  "supersedes": "MVA-NB17-F0-PREREG-VALIDITY-1.0.0",
+  "biological_data_generated": false,
+  "drug_ranking_performed": false,
+  "phase_gate": {
+    "distance_bp": 10911,
+    "status": "UNRESOLVED",
+    "hard_gate": true
+  },
+  "F0V_controls": {
+    "B_LB": 6,
+    "P_LP": 5,
+    "total": 11
+  },
+  "odds_path_method": "Brnich formula with one misclassified variant added to each set for perfect separation",
+  "odds_path_ceiling": {
+    "P1": 0.46153846153846156,
+    "PS3": 5.833333333333334,
+    "PS3_max_strength": "Moderate",
+    "BS3": 0.1944444444444444,
+    "BS3_max_strength": "Moderate",
+    "Strong_admissible": false
+  },
+  "qc_loss_rule": "Any single real-control loss leaves 10 controls; count-based Moderate is not claimed.",
+  "replicates": {
+    "hard_minimum": 4,
+    "target": 8
+  },
+  "confidence_intervals_required": true,
+  "function_dominant_approved_causal_rescue_in_audited_space": "NONE"
+}

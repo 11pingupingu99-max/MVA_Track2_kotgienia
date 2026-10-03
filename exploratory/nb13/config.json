@@ -1,0 +1,21 @@
+{
+  "notebook": "NB13",
+  "version": "1.0.0",
+  "input_hashes": {
+    "reference.json": "629563f6ba95d92441cec7fd76aacb9d7927fe84fef4f6e57509dc81460765e7",
+    "orthology_1to1.csv": "80184c7940bbb4de1846e970fcee4d3396264187ba5968eb87067883d2a51443",
+    "orthology_excluded_ambiguous.csv": "af1fed0648213096ca4fa0ea798b902a3dfa2e8018b3412e3199c67efc9c5e51",
+    "mouse_symbol_resolution.csv": "57b75d1067e91256dfdf4df925ae90d824306537b7142a883d08edf1f8facedd",
+    "SOURCE_MANIFEST.json": "40b17f6d6abc382a357ff86289e7158403a66f22ee8a0ffa62ac645d0ec36f69",
+    "GSE129811_AWVM29samples.HTSeq.counts.tsv.gz": "d09334fd7cae194d1fac02ddbd44c13aeb47f597734097c502f86032847629cc",
+    "GSE129811_gsm.soft": "6664b4115b729d4d170e43564c255272e08b093f8f4f1e3ae8e43af050721458",
+    "GSE129811_Readme_PatientControlMatching.txt": "01aa6c1c998bc817b87319cf5f410b01eb16f94cae656d1c7c298d27c3c994f1"
+  },
+  "engine_sha256": "cbbacf8a59a455f552e98d8730d307898484e0e1a51f2ccfc74b74381c8595ce",
+  "lock_sha256": "4f9d08a26943315933b313411041ac2f51bb5310924de958b402b7fd87e87301",
+  "nb11_manifest_sha256": "0c8fca638d5264c457056eef91a82721869e9c19e2ea09a1091ecdb6c97ce224",
+  "variant_json_sha256": "",
+  "variant_json_path": "",
+  "nb11_run": "exploratory/nb11",
+  "project_root": "."
+}

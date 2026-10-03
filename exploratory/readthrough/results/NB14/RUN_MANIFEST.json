@@ -1,0 +1,27 @@
+{
+  "notebook": "NB14",
+  "version": "1.0.0",
+  "status": "COMPLETED",
+  "files": {
+    "EJC_DISTANCES.csv": "97ebfe5727174e3d61f3e0facf5d9a694e6d9c7df90d591b595174dd61248d52",
+    "EXON_MAP.csv": "1a1df913cd3c1d63b21a4a053c2eb25db424bfe73d2daa70e1741dff71cf9165",
+    "NB14_HANDOFF.json": "8915cfacddc13c0ab97aef84db1f57d43f44cc726e199146182f727346dfa32e",
+    "REFERENCE_AND_STOP.fasta": "4905874b88474bbe4eb8616178946617b1f4edc5a61d28393c9b0ae58cb7eb36",
+    "REFERENCE_AUDIT.json": "66076bed4a1442eab38b003a9a5654b069b3781877e8721e5e4ca167cafd771d",
+    "RESULT_SUMMARY.md": "43ae95529bf314d370c8e01cf88c0902292cbc21049de7b8016d59d539201621",
+    "RUNTIME.json": "ffeec5ed299be2e311220e867ec04a9d918508d9fe5a994ece20494aa25ff3d9",
+    "RUN_STATUS.json": "57f937297e162df2570c83e1933a2e669fe49c255563f80938a95fac81535df1",
+    "SINGLE_BASE_CODON_ROUTES.csv": "6c21cdd113dc2af1ba6351d0ab3279a52d73e14b48cb87e3f10f92ee09d6fc4d",
+    "STOP_CONTEXT.csv": "7f8f7b4eda25234b42b4a87bc6d0c0e34e510175f730e80abac3de3a66284147",
+    "analysis.log": "ffeb671d8e9c6d01802dca686328623af24afa4c5cb0c563206dd063089f97a1",
+    "config.json": "5f50862b19461017b462c7c36fa314b6974b98c774ffc7190d484a1328885df9",
+    "inputs/BUB1B_NM_001211.6.gb": "e6162e0c229509602c9aaa77d1c4ce20932694768e32a92f4c9f5cdb4dea3c99",
+    "inputs/BUB1B_O60566.fasta": "4ac6895daf90501d8398d17ded42f46d78b9db777f5084facc875c2926496d1b",
+    "inputs/INPUT_MANIFEST.json": "2864ce6487be47511a67753ac54e54c8ac54185a90eb7584d76a0a9d581156a1",
+    "inputs/PROVENANCE.json": "f66b19b62e2126f35f69fa9c070ded0e52bb178cb70777e3fb3a8f139e198b8c",
+    "inputs/__pycache__/mva_readthrough.cpython-313.pyc": "e4d72226c710f63c279634390f2bbcf5f16335e8d1083d82aa801311ec991ecb",
+    "inputs/esm_driver.py": "4a4b2411c1cdba2003acc137b22e446e8ffae97b2c57880e33e2a62d52439a5a",
+    "inputs/evidence.json": "e33139e9c58bae4e4dcaa222fc03786ca34de012ecd7fc4c23e6db62c1bff985",
+    "inputs/mva_readthrough.py": "0e173bb8172a1e779ccbd2462b58699ef309d33252c5f038dedb3b9f3ff6322b"
+  }
+}

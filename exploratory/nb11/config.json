@@ -1,0 +1,23 @@
+{
+  "notebook": "NB11",
+  "version": "1.0.0",
+  "input_hashes": {
+    "reference.json": "629563f6ba95d92441cec7fd76aacb9d7927fe84fef4f6e57509dc81460765e7",
+    "orthology_1to1.csv": "80184c7940bbb4de1846e970fcee4d3396264187ba5968eb87067883d2a51443",
+    "orthology_excluded_ambiguous.csv": "af1fed0648213096ca4fa0ea798b902a3dfa2e8018b3412e3199c67efc9c5e51",
+    "mouse_symbol_resolution.csv": "57b75d1067e91256dfdf4df925ae90d824306537b7142a883d08edf1f8facedd",
+    "SOURCE_MANIFEST.json": "40b17f6d6abc382a357ff86289e7158403a66f22ee8a0ffa62ac645d0ec36f69",
+    "GSE134780_counts.txt.gz": "f12a73805eb3aaf95d666e78756def647a11e95e37bd007dda580bc08ec77cba",
+    "GSE134781_counts.txt.gz": "b3bca2307aaa423772e5da918311bb92b35bc1f0e620701624d6952f01726753",
+    "GSE277997_H_v_WT.csv.gz": "101e8df3b4ded7d7f10e0e015a5365f43b2ace6d180bddb5ffd8479421b15800",
+    "GSE134780_gsm.soft": "ef570a0542734bdc6e9e3e094a8c6ce3accbb7f30b3ab106335e897795adb8d5",
+    "GSE134781_gsm.soft": "54c4f8a5c6b65ed7b06f024f2bf548316464a08ce442d0cc02eb59b8aed9a8df"
+  },
+  "engine_sha256": "cbbacf8a59a455f552e98d8730d307898484e0e1a51f2ccfc74b74381c8595ce",
+  "lock_sha256": "4f9d08a26943315933b313411041ac2f51bb5310924de958b402b7fd87e87301",
+  "nb11_manifest_sha256": "",
+  "variant_json_sha256": "",
+  "variant_json_path": "",
+  "nb11_run": "",
+  "project_root": "."
+}

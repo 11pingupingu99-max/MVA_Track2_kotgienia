@@ -1,0 +1,9 @@
+{
+  "schema": "MVA_NB12_HANDOFF_1.0",
+  "sequence_audit": "PASS",
+  "payload_audit": "COMPLETED_DESIGN_ENVELOPES_ONLY",
+  "variant_audit": "NOT_RUN_NO_VERIFIED_CDNA_VARIANTS",
+  "delivery": "UNVALIDATED",
+  "clinical_readiness": false,
+  "partial_correction_threshold": "NOT_ESTIMATED"
+}

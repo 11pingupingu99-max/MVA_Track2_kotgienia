@@ -1,0 +1,10 @@
+sample,gsm,age_title,tissue,genotype,replicate_label,author_genotype,author_age,condition
+3mo_skM_WT_1,GSM3968615,3mo,skM,WT,1,WT,3 months,WT
+3mo_skM_WT_2,GSM3968616,3mo,skM,WT,2,WT,3 months,WT
+3mo_skM_WT_3,GSM3968617,3mo,skM,WT,3,WT,3 months,WT
+3mo_skM_hetL1002P_1,GSM3968618,3mo,skM,hetL1002P,1,hetL1002P,3 months,hetL1002P
+3mo_skM_hetL1002P_2,GSM3968619,3mo,skM,hetL1002P,2,hetL1002P,3 months,hetL1002P
+3mo_skM_hetL1002P_3,GSM3968620,3mo,skM,hetL1002P,3,hetL1002P,3 months,hetL1002P
+3mo_skM_hetX753_1,GSM3968621,3mo,skM,hetX753,1,hetX753,3 months,hetX753
+3mo_skM_hetX753_2,GSM3968622,3mo,skM,hetX753,2,hetX753,3 months,hetX753
+3mo_skM_hetX753_3,GSM3968623,3mo,skM,hetX753,3,hetX753,3 months,hetX753

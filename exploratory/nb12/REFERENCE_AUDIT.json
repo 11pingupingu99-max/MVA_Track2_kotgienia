@@ -1,0 +1,15 @@
+{
+  "transcript": "NM_001211.6",
+  "protein_refseq": [
+    "NP_001202.5"
+  ],
+  "cds_start_1based": 153,
+  "cds_end_1based": 3305,
+  "cds_length_with_stop": 3153,
+  "amino_acids": 1050,
+  "uniprot_match": true,
+  "source_sha256": {
+    "BUB1B_NM_001211.6.gb": "e6162e0c229509602c9aaa77d1c4ce20932694768e32a92f4c9f5cdb4dea3c99",
+    "BUB1B_O60566.fasta": "4ac6895daf90501d8398d17ded42f46d78b9db777f5084facc875c2926496d1b"
+  }
+}

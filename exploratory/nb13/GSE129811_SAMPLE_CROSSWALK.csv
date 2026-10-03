@@ -1,0 +1,30 @@
+,gsm,individual,month,group,condition,author_genotype
+AWVM01_C0,GSM3722441,Control1,0,control,control_0,WT
+AWVM02_C4,GSM3722453,Control1,4,control,control_4,WT
+AWVM03_C0,GSM3722444,Control5,0,control,control_0,WT
+AWVM04_C4,GSM3722456,Control5,4,control,control_4,WT
+AWVM05_C0,GSM3722442,Control3,0,control,control_0,WT
+AWVM06_C4,GSM3722454,Control3,4,control,control_4,WT
+AWVM07_C0,GSM3722443,Control4,0,control,control_0,WT
+AWVM08_C4,GSM3722455,Control4,4,control,control_4,WT
+AWVM09_C0,GSM3722446,Control7,0,control,control_0,WT
+AWVM10_C4,GSM3722458,Control7,4,control,control_4,WT
+AWVM11_C0,GSM3722445,Control6,0,control,control_0,WT
+AWVM12_C4,GSM3722457,Control6,4,control,control_4,WT
+AWVM13_C0,GSM3722448,Control9,0,control,control_0,WT
+AWVM14_C4,GSM3722460,Control9,4,control,control_4,WT
+AWVM15_C0,GSM3722447,Control8,0,control,control_0,WT
+AWVM16_C4,GSM3722459,Control8,4,control,control_4,WT
+AWVM17_P0,GSM3722449,Patient2,0,patient,patient_0,Twinkle mutation
+AWVM18_P4,GSM3722462,Patient2,4,patient,patient_4,Twinkle mutation
+AWVM19_P10,GSM3722467,Patient2,10,patient,patient_10,Twinkle mutation
+AWVM20_P0,GSM3722451,Patient4,0,patient,patient_0,single mtDNA deletion
+AWVM21_P4,GSM3722464,Patient4,4,patient,patient_4,single mtDNA deletion
+AWVM22_P10,GSM3722469,Patient4,10,patient,patient_10,single mtDNA deletion
+AWVM23_P0,GSM3722450,Patient3,0,patient,patient_0,Twinkle mutation
+AWVM24_P4,GSM3722463,Patient3,4,patient,patient_4,Twinkle mutation
+AWVM25_P10,GSM3722468,Patient3,10,patient,patient_10,Twinkle mutation
+AWVM26_P0,GSM3722452,Patient5,0,patient,patient_0,single mtDNA deletion
+AWVM27_P4,GSM3722465,Patient5,4,patient,patient_4,single mtDNA deletion
+AWVM30_P4,GSM3722461,Patient1,4,patient,patient_4,single mtDNA deletion
+AWVM31_P10,GSM3722466,Patient1,10,patient,patient_10,single mtDNA deletion

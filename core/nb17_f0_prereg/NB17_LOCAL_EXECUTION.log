@@ -1,0 +1,24 @@
+Frozen 5 P/LP + 6 B/LB:
+P1 = 0.46153846153846156
+PS3 OddsPath = 5.833333333333334
+BS3 OddsPath = 0.1944444444444444
+Maximum prospective strength: Moderate
+loss_PLP real_controls= 10 PS3= 5.6 BS3= 0.233
+loss_BLB real_controls= 10 PS3= 5.0 BS3= 0.2
+Count-based Moderate claim after any single control loss: NOT ADMISSIBLE (<11 real controls)
+{
+  "schema": "MVA-NB17-F0-PREREG-VALIDITY-1.0.1",
+  "status": "PASS",
+  "phase_distance_bp": 10911,
+  "F0V_controls": {
+    "B_LB": 6,
+    "P_LP": 5,
+    "total": 11
+  },
+  "PS3_OddsPath": 5.833333333333334,
+  "BS3_OddsPath": 0.1944444444444444,
+  "max_strength": "Moderate",
+  "Strong_admissible": false,
+  "single_control_loss_count_based_moderate_admissible": false
+}
+NB17 v1.0.1 CORRECTED ODDS PATH: PASS

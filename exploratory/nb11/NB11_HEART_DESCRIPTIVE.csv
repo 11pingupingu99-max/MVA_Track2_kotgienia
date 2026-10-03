@@ -1,0 +1,19 @@
+module,n_genes,median_author_log2FC,n_author_gene_padj_lt05,module_pvalue,interpretation
+Autophagy,250,-0.1012820844305601,3,,descriptive author DE only; no sample-level module test
+Cytosolic_ribosome_sentinels,53,0.32192271952114,3,,descriptive author DE only; no sample-level module test
+DNA_damage_response,595,-0.0707642096902854,10,,descriptive author DE only; no sample-level module test
+DNA_replication,164,-0.1131565274674535,1,,descriptive author DE only; no sample-level module test
+ISRmt_author_sentinels,11,1.29820384509894,5,,descriptive author DE only; no sample-level module test
+Innate_immunity,399,-0.0187437793539021,12,,descriptive author DE only; no sample-level module test
+Lysosome,578,-0.06976497387343661,13,,descriptive author DE only; no sample-level module test
+Mito_UPR,2,-0.3732881433720915,0,,descriptive author DE only; no sample-level module test
+Mito_import_localization,62,-0.10703256096684946,1,,descriptive author DE only; no sample-level module test
+Mito_translation,104,-0.1892436772071895,4,,descriptive author DE only; no sample-level module test
+Mitotic_cycle,403,-0.0479845304545695,12,,descriptive author DE only; no sample-level module test
+NAD_consuming_enzymes,12,-0.11710970113224,0,,descriptive author DE only; no sample-level module test
+NAD_synthesis_salvage,8,0.23018370734867197,2,,descriptive author DE only; no sample-level module test
+OXPHOS,84,-0.0491318376692372,1,,descriptive author DE only; no sample-level module test
+Oxidative_stress,221,-0.0669438243891416,8,,descriptive author DE only; no sample-level module test
+Protein_folding,168,-0.1575623482595035,5,,descriptive author DE only; no sample-level module test
+Type_I_IFN,18,0.0164236724400492,0,,descriptive author DE only; no sample-level module test
+Ubiquitin_proteolysis,461,-0.127498824880163,5,,descriptive author DE only; no sample-level module test

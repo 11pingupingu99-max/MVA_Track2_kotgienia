@@ -1,0 +1,13 @@
+contrast,marker_panel,n_genes,effect_log2,ci_low,ci_high,p_exact,n_units_case,n_units_control,n_permutations,loo_min,loo_max,test
+patient_4m_vs_0m,Endothelial,4,-0.0626975237972891,-0.4706707292217714,0.3452756816271932,0.625,4,4,16,-0.18349264845386828,0.017352629247008384,paired exact sign-flip; assumes symmetric differences; no placebo
+patient_4m_vs_0m,Immune,5,0.2561437782117576,-0.8918032196192583,1.4040907760427737,0.625,4,4,16,0.10921675094779,0.6149426074882506,paired exact sign-flip; assumes symmetric differences; no placebo
+patient_4m_vs_0m,Proliferation,3,0.06839236753881073,-0.21010772096744312,0.3468924560450646,0.5,4,4,16,0.019367765722430857,0.15304192586950846,paired exact sign-flip; assumes symmetric differences; no placebo
+patient_4m_vs_0m,Stromal,5,0.08842196330302343,-0.505160392601514,0.6820043192075609,0.75,4,4,16,-0.06320049048585297,0.22518988005353022,paired exact sign-flip; assumes symmetric differences; no placebo
+patient_10m_vs_0m,Endothelial,4,-0.0384924351951265,-0.6959875952590592,0.6190027248688063,0.75,3,3,8,-0.1852593701253289,0.07174390531427388,paired exact sign-flip; assumes symmetric differences; no placebo
+patient_10m_vs_0m,Immune,5,0.6452626467159982,-1.9720679810835202,3.262593274515517,0.5,3,3,8,0.052513630614161144,1.0600172223383084,paired exact sign-flip; assumes symmetric differences; no placebo
+patient_10m_vs_0m,Proliferation,5,0.36463362027154034,-1.7668169197066357,2.4960841602497164,0.5,3,3,8,0.09412775394875572,0.8592907274543822,paired exact sign-flip; assumes symmetric differences; no placebo
+patient_10m_vs_0m,Stromal,5,-0.0284976010884647,-0.9398272185298802,0.8828320163529508,1.0,3,3,8,-0.1982834319698492,0.16605870472860484,paired exact sign-flip; assumes symmetric differences; no placebo
+control_4m_vs_0m,Endothelial,4,0.00703404093398019,-0.16319523002176148,0.17726331188972186,0.9296875,8,8,256,-0.04523845166856993,0.046353410079879254,paired exact sign-flip; assumes symmetric differences; no placebo
+control_4m_vs_0m,Immune,2,-0.1567744790200638,-0.5999279901772444,0.2863790321371168,0.4453125,8,8,256,-0.2524054846270026,-0.027738791984747126,paired exact sign-flip; assumes symmetric differences; no placebo
+control_4m_vs_0m,Proliferation,3,-0.043464407937077065,-0.3164882699632771,0.22955945408912298,0.7109375,8,8,256,-0.09966277807263602,0.04031023585127474,paired exact sign-flip; assumes symmetric differences; no placebo
+control_4m_vs_0m,Stromal,5,0.028969768010842945,-0.4620673472742074,0.5200068832958933,0.921875,8,8,256,-0.11627135620920954,0.16453342903631984,paired exact sign-flip; assumes symmetric differences; no placebo

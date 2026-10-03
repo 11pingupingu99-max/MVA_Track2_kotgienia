@@ -1,0 +1,81 @@
+{
+  "ambiguous_rows_excluded": 8,
+  "inputs": {
+    "BUB1B_NM_001211.6.gb": {
+      "bytes": 28684,
+      "sha256": "e6162e0c229509602c9aaa77d1c4ce20932694768e32a92f4c9f5cdb4dea3c99"
+    },
+    "BUB1B_O60566.fasta": {
+      "bytes": 1195,
+      "sha256": "4ac6895daf90501d8398d17ded42f46d78b9db777f5084facc875c2926496d1b"
+    },
+    "GSE129811_AWVM29samples.HTSeq.counts.tsv.gz": {
+      "bytes": 1419441,
+      "sha256": "d09334fd7cae194d1fac02ddbd44c13aeb47f597734097c502f86032847629cc"
+    },
+    "GSE129811_Readme_PatientControlMatching.txt": {
+      "bytes": 147,
+      "sha256": "01aa6c1c998bc817b87319cf5f410b01eb16f94cae656d1c7c298d27c3c994f1"
+    },
+    "GSE129811_gsm.soft": {
+      "bytes": 103241,
+      "sha256": "6664b4115b729d4d170e43564c255272e08b093f8f4f1e3ae8e43af050721458"
+    },
+    "GSE134780_counts.txt.gz": {
+      "bytes": 854190,
+      "sha256": "f12a73805eb3aaf95d666e78756def647a11e95e37bd007dda580bc08ec77cba"
+    },
+    "GSE134780_gsm.soft": {
+      "bytes": 61076,
+      "sha256": "ef570a0542734bdc6e9e3e094a8c6ce3accbb7f30b3ab106335e897795adb8d5"
+    },
+    "GSE134781_counts.txt.gz": {
+      "bytes": 352079,
+      "sha256": "b3bca2307aaa423772e5da918311bb92b35bc1f0e620701624d6952f01726753"
+    },
+    "GSE134781_gsm.soft": {
+      "bytes": 23427,
+      "sha256": "54c4f8a5c6b65ed7b06f024f2bf548316464a08ce442d0cc02eb59b8aed9a8df"
+    },
+    "GSE277997_H_v_WT.csv.gz": {
+      "bytes": 338028,
+      "sha256": "101e8df3b4ded7d7f10e0e015a5365f43b2ace6d180bddb5ffd8479421b15800"
+    },
+    "mouse_symbol_resolution.csv": {
+      "bytes": 1314695,
+      "sha256": "57b75d1067e91256dfdf4df925ae90d824306537b7142a883d08edf1f8facedd"
+    },
+    "orthology_1to1.csv": {
+      "bytes": 1073116,
+      "sha256": "80184c7940bbb4de1846e970fcee4d3396264187ba5968eb87067883d2a51443"
+    },
+    "orthology_excluded_ambiguous.csv": {
+      "bytes": 605,
+      "sha256": "af1fed0648213096ca4fa0ea798b902a3dfa2e8018b3412e3199c67efc9c5e51"
+    },
+    "reference.json": {
+      "bytes": 298812,
+      "sha256": "629563f6ba95d92441cec7fd76aacb9d7927fe84fef4f6e57509dc81460765e7"
+    }
+  },
+  "mouse_alias_source_sha256": "beaa850772dffdf5de86ba5f08d7fb657179af383cf262b83f85fae7ec9ffc94",
+  "orthology_raw_sha256": "7afbb340eb3637b1a6a25e513cb5e0243428a87d03d89a09e0b21dadba7ca58b",
+  "prespecified_modules_then_mapping_QC_repair": true,
+  "source_urls": {
+    "BUB1B_NM_001211.6.gb": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NM_001211.6&rettype=gb&retmode=text",
+    "BUB1B_O60566.fasta": "https://rest.uniprot.org/uniprotkb/O60566.fasta",
+    "GSE129811_AWVM29samples.HTSeq.counts.tsv.gz": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129811/suppl/GSE129811_AWVM29samples.HTSeq.counts.tsv.gz",
+    "GSE129811_Readme_PatientControlMatching.txt": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129811/suppl/GSE129811_Readme_PatientControlMatching.txt",
+    "GSE129811_gsm.soft": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129811&targ=gsm&form=text&view=full",
+    "GSE134780_counts.txt.gz": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134780/suppl/GSE134780_counts.txt.gz",
+    "GSE134780_gsm.soft": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134780&targ=gsm&form=text&view=full",
+    "GSE134781_counts.txt.gz": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134781/suppl/GSE134781_counts.txt.gz",
+    "GSE134781_gsm.soft": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134781&targ=gsm&form=text&view=full",
+    "GSE277997_H_v_WT.csv.gz": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE277nnn/GSE277997/suppl/GSE277997_H_v_WT.csv.gz",
+    "ensembl_info.json": "https://rest.ensembl.org/info/data?content-type=application/json",
+    "human_mouse_orthology.tsv": "https://useast.ensembl.org/biomart/martservice?query=%3CQuery+virtualSchemaName%3D%22default%22+formatter%3D%22TSV%22+header%3D%221%22+uniqueRows%3D%221%22+datasetConfigVersion%3D%220.6%22%3E%3CDataset+name%3D%22hsapiens_gene_ensembl%22+interface%3D%22default%22%3E%3CAttribute+name%3D%22ensembl_gene_id%22%2F%3E%3CAttribute+name%3D%22external_gene_name%22%2F%3E%3CAttribute+name%3D%22mmusculus_homolog_ensembl_gene%22%2F%3E%3CAttribute+name%3D%22mmusculus_homolog_associated_gene_name%22%2F%3E%3CAttribute+name%3D%22mmusculus_homolog_orthology_type%22%2F%3E%3CAttribute+name%3D%22mmusculus_homolog_orthology_confidence%22%2F%3E%3C%2FDataset%3E%3C%2FQuery%3E",
+    "mouse_gene_aliases.tsv": "https://asia.ensembl.org/biomart/martservice?query=%3CQuery+virtualSchemaName%3D%22default%22+formatter%3D%22TSV%22+header%3D%221%22+uniqueRows%3D%221%22+datasetConfigVersion%3D%220.6%22%3E%3CDataset+name%3D%22mmusculus_gene_ensembl%22+interface%3D%22default%22%3E%3CAttribute+name%3D%22ensembl_gene_id%22%2F%3E%3CAttribute+name%3D%22external_gene_name%22%2F%3E%3CAttribute+name%3D%22external_synonym%22%2F%3E%3C%2FDataset%3E%3C%2FQuery%3E"
+  },
+  "strict_orthologs_retained": 16073,
+  "validation_repairs": "Unambiguous historical mouse aliases added after initial coverage audit; alternate-locus and P-suffix entries removed from new ribosome panel. NB02 memberships and statistical thresholds unchanged."
+}

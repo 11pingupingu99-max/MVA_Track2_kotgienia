@@ -1,0 +1,3 @@
+candidate,support,mechanism_gate,exposure_gate,product_gate,status
+niacin_nicotinic_acid,human muscle intervention data; indirect NAD+/SIRT2 rationale,NOT_TESTED_IN_MVA,UNKNOWN_TARGET_TISSUE_EXPOSURE,UNKNOWN_CURRENT_TRACK2_PRODUCT_ELIGIBILITY,CONDITIONAL_PRECLINICAL_CANDIDATE
+NAC,"human aged-fibroblast redox/segregation data, 5 mM in vitro",NOT_TESTED_IN_BUB1B_MVA,UNKNOWN_RELEVANT_EXPOSURE,UNKNOWN_CURRENT_TRACK2_PRODUCT_ELIGIBILITY,COMPARATOR_ONLY

@@ -1,0 +1,6 @@
+modality,potential_advantage,unresolved_requirements,status
+Endogenous allele correction,potentially durable in edited progenitors,"exact variant, phase, cell delivery, editing and off-target validation",CONDITIONAL
+WT cDNA / ssAAV,CDS fits some regulatory size envelopes,"division-related dilution, tissue delivery, expression timing and dose",SIZE_ONLY_FEASIBLE
+WT mRNA,transient biological rescue benchmark,delivery efficiency and repeated expression; no durable correction,PRECLINICAL_REFERENCE
+CRISPRa,may increase transcription of existing allele,requires allele with useful function; could amplify dysfunctional protein,FUNCTION_DEPENDENT
+XIST chromosome silencing,not evaluated as a BUB1B restoration route,heterogeneous aneuploidies and chromosome-wide dosage consequences,NOT_PRIORITIZED
